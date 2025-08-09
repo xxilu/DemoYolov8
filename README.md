@@ -4,6 +4,7 @@ This project is a demo that uses YOLOv8 for real-time object detection in images
 ## Clone repository
 ```bash
 git clone https://github.com/xxilu/DemoYolov8
+cd DemoYolov8
 ```
 
 ## Create and activate environment
